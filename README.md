@@ -12,9 +12,8 @@
 ## Connect with me
 <a href="https://gitlab.com/THSpp">
   <img alt="THSpp | Gitlab" align="left" width="26px" style="margin-right:15px" src="https://raw.githubusercontent.com/tonka3000/tonka3000/master/assets/gitlab.svg" />
-</a>
+</a><br/><br/>
 
-## Other
 <img width=400 src="https://github-readme-stats.vercel.app/api/top-langs?username=THSpp&show_icons=true&locale=en&layout=compact&theme=tokyonight" />
 
 <img width=1200 src="https://github.com/30675/run-snake/blob/output/github-contribution-grid-snake-dark.svg" />
