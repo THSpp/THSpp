@@ -1,8 +1,5 @@
 # 🐶 Thanawat Spp — @THSpp
 
-I am a recent graduate from KMUTT in the Department of Computer Engineering with three years of hands-on experience in software development. I am also interested in software development, data science, blockchain, and cybersecurity. I work well with others and 
-I am ready to learn new technologies.
-
 - 👋 Hi, I'm Thanawat Sophiphong (Guy)
 - 👀 I'm interested in Software Development, Blockchain and Cybersecurity.
 - 🌱 I'm a recent graduate from Computer Engineer @ KMUTT
